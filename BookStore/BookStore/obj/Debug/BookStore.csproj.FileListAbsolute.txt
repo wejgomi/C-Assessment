@@ -1,0 +1,10 @@
+c:\users\wejgo\onedrive\belgeler\visual studio 2015\Projects\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\wejgo\OneDrive\Belgeler\Visual Studio 2015\Projects\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\wejgo\OneDrive\Belgeler\Visual Studio 2015\Projects\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\wejgo\OneDrive\Belgeler\Visual Studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\wejgo\OneDrive\Belgeler\Visual Studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\wejgo\OneDrive\Belgeler\Visual Studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\wejgo\OneDrive\Belgeler\Visual Studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\wejgo\OneDrive\Belgeler\Visual Studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\wejgo\OneDrive\Belgeler\Visual Studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.Form1.resources
+C:\Users\wejgo\OneDrive\Belgeler\Visual Studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.Form2.resources
